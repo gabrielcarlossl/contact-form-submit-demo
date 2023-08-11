@@ -1,16 +1,10 @@
 # Contact Form App demo
-this form it's hosted on netlify and when you fill and send it's sent to your email.
+- The form is hosted on Netlify, and when you fill out and submit the form, it will be sent to the email configured in the code.
 
 
 ## Run Project
+- You need to host the project on a server for the form to work and send to your email.
 
-```
-
-# Then 
-npm i
-# then
-npm run dev
-```
 1. Clone the repository
 ```
 git clone https://github.com/gabrielcarlossl/contact-form-submit-demo.git
